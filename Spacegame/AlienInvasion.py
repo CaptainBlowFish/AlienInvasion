@@ -1,5 +1,3 @@
-#VID 18 Time 38:59 
-
 import sys
 import pygame
 import time
